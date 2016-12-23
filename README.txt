@@ -1,6 +1,3 @@
-# Bootcake
-Bootcake is a modded version of UserCake PHP member login framework.
-
 Copyright (c) UserCake 2009-2012
 
 Bootcake is a modified version of Usercake (http://usercake.com/)
@@ -62,4 +59,3 @@ UserCake V2.0 designed by: Jonathan Cassels
 Vers: 2.0.2
 http://usercake.com
 http://usercake.com/LICENCE.txt
-

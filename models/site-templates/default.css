@@ -1,0 +1,50 @@
+
+
+        @import url(https://fonts.googleapis.com/css?family=Orbitron);
+        @import url(https://fonts.googleapis.com/css?family=Kanit);
+
+
+* {
+  -webkit-border-radius: 0 !important;
+     -moz-border-radius: 0 !important;
+          border-radius: 0 !important;
+}
+
+
+.navbar-custom{
+
+     
+        font-family: 'Orbitron', sans-serif;  
+        font-size: 1.2em;
+        color:#333;
+     
+  
+        -webkit-box-shadow: 0px 2px 4px #000000;
+        -moz-box-shadow: 0px 2px 4px #000000;
+        box-shadow: 0px 2px 4px #000000;
+   
+      
+
+}
+
+.navbar-toggle, span.icon-bar{color:#333;}
+
+/* unvisited link */
+a:link {
+    color: #333;
+}
+
+/* visited link */
+a:visited {
+    color: #333;
+}
+
+/* mouse over link */
+a:hover {
+    color: #333;
+}
+
+/* selected link */
+a:active {
+    color:#333;
+}
